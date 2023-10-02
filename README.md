@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maria17031999
 - 👀 I’m interested in C++, Python, R, LaTex, Java, Octave and JSON
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and JSON
 - 💞️ I’m looking to collaborate on C++, Python, R, LaTex, Java and JSON
 
 
